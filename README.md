@@ -1,16 +1,32 @@
-# React + Vite
+# Casa de Câmbio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto: um conversor de moedas responsivo, desenvolvido com React e Vite, utilizando a Frankfurter API para consultar taxas de câmbio.
 
-Currently, two official plugins are available:
+## 🔗 Ver ao vivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Link do site publicado aqui: https://athy-kamull.github.io/Casa-de-Cambio/
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Conversão de valores entre diferentes moedas
+- Seleção da moeda de origem e destino
+- Botão para trocar as moedas selecionadas
+- Consulta de taxas de câmbio através da Frankfurter API
+- Exibição do valor convertido e da taxa utilizada
+- Indicador de carregamento durante a conversão
+- Mensagem de erro caso a conversão não seja realizada
+- Layout responsivo para diferentes tamanhos de tela
+- Interface com tema escuro e identidade visual própria
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- Vite
+- CSS3
+- API Frankfurter
+- HTML5
+
+## 📸 Screenshot
+
+Conversor de moedas:<img width="1920" height="932" alt="casa-de-cambio" src="https://github.com/user-attachments/assets/22819423-1340-494a-99b9-03038b3534d0" />
